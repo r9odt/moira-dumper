@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/JIexa24/moira-dumper/lib"
+	"github.com/r9odt/moira-dumper/lib"
 )
 
 var api string

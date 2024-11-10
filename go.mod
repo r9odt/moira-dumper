@@ -1,4 +1,4 @@
-module github.com/JIexa24/moira-dumper
+module github.com/r9odt/moira-dumper
 
 go 1.16
 
